@@ -46,4 +46,3 @@ The key decisions I had to make during the process of developing the model inclu
 At the end of this project, we created a machine learning model that predicts what handmade products a user is most likely recommend. The model can be integrated into a backend infrastructure for further use.
 
 Number of reviews were shown to be the most important indicator of success for shops as suggested by the high mutual information score and supported by the permutation importance test for our highly accurate random forest regression model. The correlation matrix revealed the surprising insight that the number of items a seller has available appears to be have a moderate positive correlation with number of reviews their shop received.
-![image](https://github.com/Ibrahim278/Eve-Crafts/assets/86243223/29cce56b-6b2d-4206-b581-9e6469d21227)
